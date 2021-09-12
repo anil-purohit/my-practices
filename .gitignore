@@ -3,5 +3,7 @@ java/.idea/*
 *.iml
 *.iws
 *.ipr
+*.class
 java/java.ipr
 java/target/*
+0
