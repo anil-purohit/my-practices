@@ -5,5 +5,4 @@ java/.idea/*
 *.ipr
 *.class
 java/java.ipr
-java/target/*
-0
+java/*/target
