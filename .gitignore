@@ -1,1 +1,7 @@
 .idea/*
+java/.idea/*
+*.iml
+*.iws
+*.ipr
+java/java.ipr
+java/target/*
